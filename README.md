@@ -17,8 +17,7 @@ Calculates **support reactions**, **shear force**, and **bending moment** — wi
 
 ## Example Output
 
-Below is an example of the plotted results of:
-10m beam - 2kN Point load at 2m - 5kN/m UDL from 4m to 8m
+Below is an example of the plotted results for a 10m simply supported beam with a 2kN point load at 2m and a 5kN/m uniformly distributed load (UDL) applied from 4m to 8m.
 
 ![Example Terminal](terminal.png)
 
